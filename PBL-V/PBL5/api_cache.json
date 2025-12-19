@@ -1,0 +1,222 @@
+{
+  "hgb": {
+    "query": "hgb",
+    "description": "No real data available. This is a mock description for 'hgb'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "daibeties": {
+    "query": "daibeties",
+    "description": "No real data available. This is a mock description for 'daibeties'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "hbg": {
+    "query": "hbg",
+    "description": "No real data available. This is a mock description for 'hbg'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "tell baout daibeties": {
+    "query": "tell baout daibeties",
+    "description": "No real data available. This is a mock description for 'tell baout daibeties'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "hypertension": {
+    "query": "hypertension",
+    "description": "No real data available. This is a mock description for 'hypertension'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "vitiligo": {
+    "query": "vitiligo",
+    "description": "No real data available. This is a mock description for 'vitiligo'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "diabetes": {
+    "query": "diabetes",
+    "description": "No real data available. This is a mock description for 'diabetes'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "asthma": {
+    "query": "asthma",
+    "description": "No real data available. This is a mock description for 'asthma'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "pneumonia": {
+    "query": "pneumonia",
+    "description": "No real data available. This is a mock description for 'pneumonia'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "migraine": {
+    "query": "migraine",
+    "description": "No real data available. This is a mock description for 'migraine'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "viral fever": {
+    "query": "viral fever",
+    "description": "No real data available. This is a mock description for 'viral fever'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "eye flu": {
+    "query": "eye flu",
+    "description": "No real data available. This is a mock description for 'eye flu'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "cancer": {
+    "query": "cancer",
+    "description": "No real data available. This is a mock description for 'cancer'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "heart disease": {
+    "query": "heart disease",
+    "description": "No real data available. This is a mock description for 'heart disease'.",
+    "common_symptoms": "Mock symptom 1, Mock symptom 2",
+    "treatment": "Mock treatment instructions"
+  },
+  "tell about hypertension": {
+    "query": "tell about hypertension",
+    "description": "Hypertension, commonly known as high blood pressure, is a chronic medical condition where the force exerted by blood against the artery walls is persistently elevated. It is a major risk factor for cardiovascular diseases such as heart attack, stroke, and kidney problems. Blood pressure readings are expressed as two numbers: systolic (pressure during heartbeats) over diastolic (pressure between beats). Normal blood pressure is typically around 120/80 mm Hg. Hypertension can develop gradually and may not cause noticeable symptoms, which is why regular blood pressure monitoring is important. Management includes lifestyle modifications like a healthy diet, regular exercise, limiting salt intake, maintaining a healthy weight, avoiding excessive alcohol and smoking, and adhering to prescribed medications if necessary.",
+    "common_symptoms": "Hypertension, commonly known as high blood pressure, is a chronic medical condition where the force exerted by blood against the artery walls is persistently elevated. It is a major risk factor for cardiovascular diseases such as heart attack, stroke, and kidney problems. Blood pressure readings are expressed as two numbers: systolic (pressure during heartbeats) over diastolic (pressure between beats). Normal blood pressure is typically around 120/80 mm Hg. Hypertension can develop gradually and may not cause noticeable symptoms, which is why regular blood pressure monitoring is important. Management includes lifestyle modifications like a healthy diet, regular exercise, limiting salt intake, maintaining a healthy weight, avoiding excessive alcohol and smoking, and adhering to prescribed medications if necessary.",
+    "treatment": "Hypertension, commonly known as high blood pressure, is a chronic medical condition where the force exerted by blood against the artery walls is persistently elevated. It is a major risk factor for cardiovascular diseases such as heart attack, stroke, and kidney problems. Blood pressure readings are expressed as two numbers: systolic (pressure during heartbeats) over diastolic (pressure between beats). Normal blood pressure is typically around 120/80 mm Hg. Hypertension can develop gradually and may not cause noticeable symptoms, which is why regular blood pressure monitoring is important. Management includes lifestyle modifications like a healthy diet, regular exercise, limiting salt intake, maintaining a healthy weight, avoiding excessive alcohol and smoking, and adhering to prescribed medications if necessary."
+  },
+  "tell about cancer": {
+    "query": "tell about cancer",
+    "description": "Cancer is a broad group of diseases characterized by the uncontrolled growth and spread of abnormal cells. These abnormal cells can invade nearby tissues and potentially spread to other parts of the body through the blood and lymphatic systems, a process known as metastasis. Cancer can originate in any part of the body and is classified based on the cell type and location. It is a major health concern worldwide, with various types requiring different approaches to management.",
+    "common_symptoms": "Not specified",
+    "treatment": "Not specified"
+  },
+  "\"Provide a detailed medical summary of hypertension. Label the sections: Description, Symptoms, Treatment.\"": {
+    "query": "\"Provide a detailed medical summary of hypertension. Label the sections: Description, Symptoms, Treatment.\"",
+    "description": "Hypertension, commonly known as high blood pressure, is a chronic medical condition where the force of blood against artery walls is consistently too high, often defined as a systolic pressure \u2265130 mm Hg or diastolic pressure \u226580 mm Hg",
+    "common_symptoms": "Not specified",
+    "treatment": "Not specified"
+  },
+  "tell about vitiligo": {
+    "query": "tell about vitiligo",
+    "description": "Not specified",
+    "common_symptoms": "Not specified",
+    "treatment": "Not specified"
+  },
+  "tell about blood cancer ": {
+    "query": "tell about blood cancer ",
+    "description": "Blood cancer, also known as hematologic cancer, refers to malignancies that originate in the blood-forming tissues of the body, such as the bone marrow, lymphatic system, or blood itself. Common types include leukemia, lymphoma, and multiple myeloma. These conditions can affect blood cell production and function, leading to symptoms like fatigue, frequent infections, unexplained weight loss, swollen lymph nodes, easy bruising or bleeding, and anemia. Diagnosis typically involves blood tests, bone marrow biopsies, and imaging studies. Treatment options vary depending on the specific type and stage of the blood cancer and may include chemotherapy, radiation therapy, targeted therapy, immunotherapy, or stem cell transplants.",
+    "common_symptoms": "Maintain a healthy lifestyle with a balanced diet and regular exercise.; Avoid exposure to known carcinogens and maintain good hygiene practices.; Get regular medical checkups, especially if you have risk factors or symptoms suggestive of blood disorders.; Seek prompt medical attention if you notice unusual symptoms such as unexplained fatigue, bleeding, or swollen lymph nodes.",
+    "treatment": "Would you like information on specific types of blood cancers?; Are you experiencing particular symptoms or risk factors?; Would you like guidance on preventive measures or screening recommendations?",
+    "warnings": "This information is for educational purposes and does not substitute professional medical advice.; If you experience severe symptoms or suspect a serious health condition, consult a healthcare provider immediately.; Blood cancers require proper diagnosis and specialized treatment; do not attempt self-diagnosis or treatment.",
+    "references": "American Cancer Society: Hematologic cancers (blood cancers).; National Cancer Institute: Types of blood cancers.; WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues."
+  },
+  "tell about hgb": {
+    "query": "tell about hgb",
+    "description": "Hemoglobin (Hgb) is a protein found in red blood cells responsible for carrying oxygen from the lungs to the body's tissues and returning carbon dioxide from the tissues back to the lungs. It is essential for maintaining adequate oxygenation of the body's organs. Hemoglobin levels are measured through a blood test and can indicate various health conditions. Low hemoglobin (anemia) may lead to fatigue, weakness, and shortness of breath, while high levels could suggest dehydration or other underlying issues. It's important to interpret Hgb levels in conjunction with other blood tests and clinical findings.",
+    "common_symptoms": "Regularly monitor hemoglobin levels if you have conditions like anemia, dehydration, or chronic diseases.; Maintain a balanced diet rich in iron, vitamin B12, and folate to support healthy hemoglobin production.; Consult a healthcare provider if experiencing symptoms such as fatigue, weakness, or dizziness.",
+    "treatment": "Would you like information on normal hemoglobin ranges?; Are you experiencing symptoms that concern you?; Do you have specific health conditions that affect your blood?",
+    "warnings": "This information is for educational purposes and not a substitute for professional medical advice.; Always consult a healthcare provider for diagnosis and treatment of health conditions.",
+    "references": "American Society of Hematology: Hemoglobin and Anemia Overview; Mayo Clinic: Hemoglobin test"
+  },
+  "check wbc level": {
+    "query": "Check WBC level",
+    "description": "A white blood cell (WBC) count measures the number of white blood cells in your blood and is often used to assess your immune system's response to infection, inflammation, or other medical conditions. Normal WBC levels typically range from approximately 4,000 to 11,000 cells per microliter of blood, but this can vary slightly depending on the laboratory and units used. If your WBC count is outside this range, it may indicate an underlying health issue. However, interpreting these results requires comprehensive clinical context.",
+    "common_symptoms": "Review your WBC test results with your healthcare provider.; Discuss any symptoms you may be experiencing, such as fever, fatigue, or signs of infection.; Follow your provider's advice regarding further testing or treatment if needed.; Maintain a healthy lifestyle to support your immune health, including good nutrition, adequate sleep, and hygiene.",
+    "treatment": "Would you like information about what high or low WBC counts may indicate?; Do you have other symptoms or medical conditions to consider?; Have you discussed your results with a healthcare professional yet?",
+    "warnings": "This information is not a diagnosis. Please consult a qualified healthcare professional for interpretation of your specific test results.; Seek immediate medical attention if you experience severe symptoms like high fever, shortness of breath, or chest pain.",
+    "references": "American Society of Hematology - White Blood Cells Fact Sheet; Lab Tests Online - WBC Count"
+  },
+  "summarize this report": {
+    "query": "Summarize this report",
+    "description": "I'm happy to help summarize your report. Please provide the content or key details of the report so I can assist you effectively.",
+    "common_symptoms": "Provide the report text or main points for review",
+    "treatment": "Share the report details for a summary; Specify any particular sections of interest",
+    "warnings": "As an AI, I cannot replace professional analysis for critical or complex reports",
+    "references": "None"
+  },
+  "now summarize the report ": {
+    "query": "now summarize the report ",
+    "description": "I'm sorry, but I need more details about the report you're referring to in order to provide a summary. Please provide the contents or main points of the report.",
+    "common_symptoms": "Provide the specific report or key details for a proper summary; Ensure the information shared is relevant and clear",
+    "treatment": "Please upload or describe the report you'd like summarized; Specify the type of report (medical, lab, diagnostic, etc.)",
+    "warnings": "In this context, I cannot analyze or interpret unidentified reports without additional information; Always consult a healthcare professional for detailed review of medical reports",
+    "references": "N/A due to lack of specific report details"
+  },
+  "tell about hct ": {
+    "query": "tell about hct ",
+    "description": "Hematocrit (HCT) is a blood test that measures the proportion of red blood cells in your blood. It is expressed as a percentage. A normal hematocrit level varies depending on age, sex, and laboratory standards, but generally, it ranges from about 38-46% for women and 40-52% for men. Abnormal HCT levels can indicate various health conditions; for example, low hematocrit (anemia) may suggest insufficient red blood cell production, blood loss, or certain medical conditions, while high hematocrit (polycythemia) might be due to dehydration, bone marrow disorders, or other factors.\n\nThis test is typically part of a complete blood count (CBC) and helps in diagnosing and monitoring various conditions related to blood health. Interpretation of HCT results should be done by a healthcare professional, considering other clinical information and lab results.",
+    "common_symptoms": "Maintain a balanced diet rich in iron, vitamins, and minerals to support healthy blood cell production.; Stay well-hydrated, especially if you have high hematocrit levels, to prevent dehydration-related increases.; Regular screening and check-ups can help detect blood disorders early.",
+    "treatment": "Would you like information on normal hematocrit ranges for specific age groups?; Do you have particular symptoms or concerns related to blood health?; Would you like to know about the causes and management of abnormal hematocrit levels?",
+    "warnings": "This information is for general educational purposes and is not a substitute for professional medical advice.; Always consult your healthcare provider for interpretation of test results and appropriate medical care, especially if you have symptoms or underlying health conditions.; If you experience symptoms like severe fatigue, dizziness, unexplained bleeding, or weakness, seek medical attention promptly.",
+    "references": "American Society of Hematology - Hematocrit information; Mayo Clinic - Hematocrit (Blood Test); CDC - Complete Blood Count (CBC) Overview"
+  },
+  "tell about wbc": {
+    "query": "tell about wbc",
+    "description": "White Blood Cells (WBCs), also known as leukocytes, are essential components of the immune system. They help the body fight infections, respond to injuries, and defend against foreign substances. WBCs are produced in the bone marrow and circulate in the bloodstream and lymphatic system. An abnormal WBC count can indicate various health conditions, such as infections, inflammation, immune disorders, or blood diseases.",
+    "common_symptoms": "Maintain good hygiene practices to prevent infections.; Eat a balanced diet rich in fruits, vegetables, and proteins to support immune health.; Regular medical check-ups can help monitor your blood counts if there are existing health concerns.; Report any unusual symptoms such as fever, unexplained fatigue, or frequent infections to a healthcare provider.",
+    "treatment": "Would you like information on normal WBC ranges?; Are you experiencing symptoms related to immune or blood health?; Have you had recent blood tests or medical evaluations?",
+    "warnings": "An abnormal WBC count should be clinically evaluated by a healthcare professional to determine the underlying cause.; This information does not replace professional medical advice. Seek medical attention for personalized diagnosis and treatment.",
+    "references": "American Society of Hematology \u2013 White Blood Cell Function; UpToDate: White Blood Cell Counts and Differential Interpretation"
+  },
+  "tell about lym ": {
+    "query": "tell about lym ",
+    "description": "It appears you might be referring to 'Lym,' which could be shorthand or a typo related to 'lymphedema,' 'lymph,' or another medical term. If you are referencing the lymphatic system or lymph-related conditions, I can provide general information.\n\nThe lymphatic system is part of the immune system and helps in removing waste and toxins from the body, as well as transporting lymph, a fluid containing white blood cells. Common lymph-related conditions include lymphedema, infections, and lymphomas. Proper healthcare evaluation by a medical professional is essential for diagnosis and management of any specific condition.\n\nPlease clarify your query for more targeted information, or consult a healthcare provider for personalized medical advice.",
+    "common_symptoms": "Ensure a detailed understanding of your specific concern or condition.; If experiencing symptoms like swelling, pain, or lumps, seek medical attention promptly.; Maintain a healthy lifestyle to support immune and lymphatic health.; Discuss any persistent or unusual symptoms with a healthcare professional.",
+    "treatment": "Please specify if you have a particular condition or symptom related to 'Lym.'; Schedule an appointment with a healthcare provider for a thorough evaluation if concerned.",
+    "warnings": "This information is for educational purposes only and does not replace professional medical advice.; Seek immediate medical attention if you have symptoms like severe swelling, difficulty breathing, or marked pain.",
+    "references": "Benzley, RD. 'Lymphedema: A Review of the Current Management Strategies.' Journal of Vascular Surgery. 2020.; National Lymphedema Network. 'Lymphedema Overview.' https://lymphnet.org/"
+  },
+  "tell about alophecia areata ": {
+    "query": "tell about alophecia areata ",
+    "description": "Alopecia areata is an autoimmune condition characterized by sudden, patchy hair loss on the scalp or other parts of the body. In this condition, the immune system mistakenly attacks hair follicles, leading to hair loss that can occur in small, discrete patches. The exact cause is unknown, but it is believed to involve a combination of genetic and environmental factors. While the hair loss can be temporary or recurrent, some individuals may experience complete loss of scalp hair (alopecia totalis) or even all body hair (alopecia universalis). Management options include corticosteroid treatments, topical immunotherapy, and other medications aimed at modulating the immune response. The prognosis varies; some people recover spontaneously, while others may experience ongoing hair loss.",
+    "common_symptoms": "Consult a dermatologist for an accurate diagnosis and personalized treatment plan.; Avoid trauma or overly harsh hair treatments which might worsen hair loss.; Maintain a healthy diet and reduce stress, as these factors can influence autoimmune conditions.; Use gentle hair care practices and scalp protection.",
+    "treatment": "Would you like information about treatment options?; Are you experiencing other symptoms or concerns related to hair loss?; Do you have a history of autoimmune or skin conditions?",
+    "warnings": "This information is for general educational purposes and does not replace professional medical advice.; If you experience sudden or extensive hair loss, or other symptoms like scalp redness or pain, seek medical attention promptly.",
+    "references": "American Academy of Dermatology Association - Alopecia Areata https://www.aad.org/public/diseases/hair-loss/types-of-hair-loss/alopecia-areata; National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS). Alopecia Areata https://www.niams.nih.gov/health-topics/alopecia-areata"
+  },
+  "tell me about diabetes ": {
+    "query": "tell me about diabetes ",
+    "description": "Diabetes mellitus is a chronic condition characterized by elevated blood sugar levels due to the body's inability to produce or effectively use insulin. There are two main types: Type 1, where the body doesn't produce insulin, and Type 2, where the body becomes resistant to insulin. Common symptoms include increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, and slow-healing wounds. Managing diabetes involves lifestyle modifications such as a balanced diet, regular physical activity, blood sugar monitoring, and medication as prescribed by a healthcare provider. If left uncontrolled, it can lead to serious complications like heart disease, kidney failure, nerve damage, and vision problems.",
+    "common_symptoms": "Maintain a balanced diet low in processed sugars and refined carbs.; Engage in regular physical activity.; Monitor blood sugar levels as advised by a healthcare professional.; Keep regular medical check-ups for ongoing management.; Avoid smoking and excessive alcohol consumption.",
+    "treatment": "Would you like information on diabetes prevention or specific management strategies?; Do you have specific concerns or symptoms related to diabetes?; Are you interested in information about testing or screening for diabetes?",
+    "warnings": "This information is for educational purposes and does not replace professional medical advice.; If you experience symptoms like severe weakness, confusion, chest pain, or sudden vision loss, seek immediate medical attention.; Consult a healthcare provider for personalized diagnosis and treatment plan.",
+    "references": "American Diabetes Association. Standards of Medical Care in Diabetes\u20142023.; World Health Organization. Diabetes Fact Sheet.; National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)."
+  },
+  "tell me about alophecia areata ": {
+    "query": "tell me about alophecia areata ",
+    "description": "Alopecia areata is an autoimmune condition characterized by sudden, patchy hair loss on the scalp or other body parts. It occurs when the immune system mistakenly attacks hair follicles, leading to hair loss that can vary from small patches to complete scalp or body hair loss in severe cases. The exact cause is not entirely understood, but genetic and environmental factors are believed to play roles. It often presents as round or oval bald patches and may, but not always, be associated with other autoimmune conditions. In many cases, hair can regrow spontaneously, or with treatment, but the pattern and extent of hair loss can vary widely.",
+    "common_symptoms": "Consult a healthcare professional or dermatologist for an accurate diagnosis and personalized treatment options.; Maintain good scalp hygiene and avoid harsh hair treatments or styles that may stress hair follicles.; Consider that stress management and overall health maintenance can potentially influence autoimmune conditions.; Be aware of possible treatments such as topical corticosteroids, minoxidil, or other immunomodulatory therapies that a doctor may prescribe.",
+    "treatment": "Would you like information on potential treatment options?; Do you have any other related symptoms or concerns?; Have you experienced similar episodes previously?",
+    "warnings": "This information is for educational purposes only and does not replace professional medical advice.; If you experience sudden or extensive hair loss, or if you notice other symptoms, seek medical attention promptly.",
+    "references": "American Academy of Dermatology Association: Alopecia Areata Guide.; National Alopecia Areata Foundation.; MedlinePlus: Alopecia Areata."
+  },
+  "tell about vitiligo ": {
+    "query": "tell about vitiligo ",
+    "description": "Vitiligo is a chronic skin condition characterized by the loss of pigmentation, leading to the development of white patches on the skin. It occurs when melanocytes, the cells responsible for producing skin pigment, are destroyed or stop functioning. The exact cause of vitiligo is not completely understood, but it is believed to involve autoimmune processes, genetics, and environmental factors. Vitiligo can affect any part of the body and may be associated with other autoimmune conditions. While it is not contagious or harmful physically, it can impact a person's psychological well-being due to its visible nature.",
+    "common_symptoms": "Consult a dermatologist for an accurate diagnosis and personalized management plan.; Use sun protection on depigmented areas to prevent sunburn and skin damage.; Consider psychological support if vitiligo affects your mental health.; Explore treatment options such as topical corticosteroids, calcineurin inhibitors, phototherapy, or depigmentation therapy, as advised by your healthcare provider.",
+    "treatment": "Schedule a consultation with a dermatologist for an accurate assessment.; Ask about the latest treatment options and management strategies.; Discuss any psychological or social concerns related to the condition.",
+    "warnings": "Self-diagnosis and self-treatment are not recommended. Professional medical advice is essential.; Some treatments may have side effects or limited efficacy, and they require medical supervision.",
+    "references": "American Academy of Dermatology Association: Vitiligo overview; National Institute of Arthritis and Musculoskeletal and Skin Diseases: Vitiligo Fact Sheet; Medical literature on autoimmune skin conditions"
+  },
+  "tell about vitiligo?": {
+    "query": "tell about vitiligo?",
+    "description": "Vitiligo is a chronic skin condition characterized by the loss of melanocytes, the cells responsible for producing skin pigment. This results in the development of white patches of varying size and shape on the skin. The exact cause is not fully understood, but it is believed to involve autoimmune processes, genetic factors, and environmental triggers. Vitiligo can affect people of all skin types and ages, and while it is primarily a cosmetic concern, it may also be associated with other autoimmune conditions. There is currently no cure, but various treatments like topical corticosteroids, light therapy, and skin pigmentation procedures can help manage the condition.",
+    "common_symptoms": "Consult a dermatologist for an accurate diagnosis and personalized treatment plan.; Protect affected skin from excessive sun exposure to prevent sunburn and reduce contrast.; Use gentle skin care products to avoid skin irritation.; Monitor for associated autoimmune conditions if symptoms suggest, and notify your healthcare provider.",
+    "treatment": "Would you like information on treatment options?; Are you experiencing any other symptoms?; Would you like advice on skin care for vitiligo?",
+    "warnings": "This information is for general educational purposes and does not replace professional medical advice.; Seek immediate medical attention if you experience rapid changes in skin, additional symptoms, or if you suspect other health issues.",
+    "references": "American Academy of Dermatology Association. Vitiligo. https://www.aad.org/public/diseases/a-z/vitiligo; National Institute of Arthritis and Musculoskeletal and Skin Diseases. Vitiligo. https://www.niams.nih.gov/health-topics/vitiligo"
+  },
+  "i want information on treatment options of vitiligo?": {
+    "query": "i want information on treatment options of vitiligo?",
+    "description": "Vitiligo is a condition characterized by the loss of skin pigmentation, resulting in white patches. Treatment options aim to restore skin color or improve appearance and may include topical medications, phototherapy, and surgical procedures. Common therapies include corticosteroid or calcineurin inhibitor creams, narrowband UVB phototherapy, and, in some cases, skin grafting or melanocyte transplants. The choice of treatment depends on the extent, location, and progression of the condition, as well as individual patient factors.",
+    "common_symptoms": "Consult a dermatologist for a personalized treatment plan.; Use prescribed topical treatments regularly as advised.; Consider phototherapy options if suitable.; Maintain good skin care and sun protection.; Stay informed about new emerging therapies or clinical trials.",
+    "treatment": "Schedule a consultation with a dermatologist to discuss treatment options.; Ask about the potential benefits and risks of each therapy.; Inquire about ongoing research or clinical trials for vitiligo.",
+    "warnings": "Always seek professional medical guidance before starting any treatment.; Some therapies may have side effects, and effectiveness varies among individuals.; Bear in mind that complete reversal of vitiligo symptoms is not always achievable.",
+    "references": "American Academy of Dermatology Association - Vitiligo: https://www.aad.org/public/diseases/a-z/vitiligo; National Institute of Arthritis and Musculoskeletal and Skin Diseases - Vitiligo: https://www.niams.nih.gov/health-topics/vitiligo"
+  }
+}

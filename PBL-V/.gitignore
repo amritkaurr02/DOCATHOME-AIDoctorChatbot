@@ -1,0 +1,24 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.streamlit/
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+
+# Archives
+*.zip
+
+*.mp4

@@ -1,0 +1,14 @@
+streamlit
+pillow
+PyPDF2
+docx2txt
+requests
+nibabel
+numpy
+opencv-python
+biopython
+reportlab
+google-generativeai
+scikit-learn
+sentence-transformers
+pydicom
